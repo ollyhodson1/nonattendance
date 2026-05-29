@@ -1,0 +1,9 @@
+{
+  "staff_images_present": true,
+  "staff_data_has_image_fields": true,
+  "render_uses_img_tag": true,
+  "build": "photos-layout-fix",
+  "staff_layout_fix_present": true,
+  "staff_photo_height_reduced": true,
+  "task_card_auto_height": true
+}
